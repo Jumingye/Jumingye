@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jumingye&repo=IDE&show_icons=true&theme=radical)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jumingye&repo=IDRLP&show_icons=true&theme=radical)
 
+![:name](https://count.getloli.com/get/@:name)
 
